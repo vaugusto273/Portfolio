@@ -10,3 +10,14 @@
 .v-text-dark-turquize { color: #00868b }
 .v-text-grey { color: #262626 }
 .v-text-black { color: #000000 }
+
+header {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    padding: 0px 0px 10px 0px;
+}
+
+#anchors{
+    width: 100%;
+}
