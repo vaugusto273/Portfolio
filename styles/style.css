@@ -1,0 +1,12 @@
+.v-lighter-grey { background-color: #eeeeee } 
+.v-light-grey { background-color: #dddddd } 
+.v-turquize { background-color: #40e0d0 }
+.v-dark-turquize { background-color: #00868b }
+.v-dark-grey { background-color: #262626 }
+
+.v-text-lighter-grey { color: #eeeeee }
+.v-text-light-grey { color: #dddddd }
+.v-text-turquize { color: #40e0d0 }
+.v-text-dark-turquize { color: #00868b }
+.v-text-grey { color: #262626 }
+.v-text-black { color: #000000 }
