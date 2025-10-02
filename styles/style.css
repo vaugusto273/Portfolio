@@ -11,6 +11,11 @@
 .v-text-grey { color: #262626 }
 .v-text-black { color: #000000 }
 
+footer a {
+    text-decoration: none;   /* remove o sublinhado */
+    margin: 0 10px;          /* espaço entre os ícones */
+}
+
 header {
     width: 100%;
     position: sticky;
