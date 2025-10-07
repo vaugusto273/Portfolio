@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .v-lighter-grey { background-color: #eeeeee } 
 .v-light-grey { background-color: #dddddd } 
 .v-turquize { background-color: #40e0d0 }
@@ -12,8 +16,8 @@
 .v-text-black { color: #000000 }
 
 footer a {
-    text-decoration: none;   /* remove o sublinhado */
-    margin: 0 10px;          /* espaço entre os ícones */
+    text-decoration: none;
+    margin: 0 10px;
 }
 
 header {
